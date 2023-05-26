@@ -1,3 +1,14 @@
-h1{
-    color : #FF5733;
+.seccion-cartelera .card-text{
+    height: 6rem;
+    overflow: hidden;
+
+}
+
+
+.sala-cine span{
+    font-size: 34px;
+}
+
+.comprada{
+    color:red;
 }
